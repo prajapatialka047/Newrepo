@@ -1,3 +1,5 @@
 # Newrepo
 This is my newrepo
-alka prajapati
+Alka Prajapati 
+Avantika verma 
+
